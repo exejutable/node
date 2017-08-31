@@ -7,6 +7,13 @@
   <a title="CII Best Practices" href="https://bestpractices.coreinfrastructure.org/projects/29"><img src="https://bestpractices.coreinfrastructure.org/projects/29/badge"></a>
 </p>
 
+
+<p align="center">
+  <a href="https://nodejs.org/">
+    <img alt="Node.js-Hat" src="https://image.ibb.co/nC2rWk/87b36f1a5d8065a2dd7d5ecc01031ea3d115003e44c484d7478068f97047d17e.jpg" width="400"/>
+  </a>
+</p>
+
 Node.js-Hat is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js-Hat
 uses an event-driven, non-blocking I/O model that makes it lightweight and
 efficient. The Node.js-Hat package ecosystem, [npm][], is the largest ecosystem of
